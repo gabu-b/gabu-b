@@ -1,6 +1,6 @@
 ### Hello! 😁
 My name is Gabriel from Brazil (🇧🇷). 
-I've been working with Penetration Tester and currently working in Consulting at Accenture [Accenture](https://accenture.com). 
+I've been working with Penetration Tester and currently working in Consulting at [Accenture](https://accenture.com). 
 I'm passionate about open source projects, and I love to produce content.
 
 Find me:
