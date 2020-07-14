@@ -1,8 +1,4 @@
 ### Hello! 😁
-
-<!--
-**gabu-b/gabu-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Gabriel from Brazil (🇧🇷). 
 I've been working with Penetration Tester and currently working in Consulting at Accenture [Accenture](https://accenture.com). 
 I'm passionate about open source projects, and I love to produce content.
