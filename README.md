@@ -4,7 +4,6 @@ I've been working with Penetration Tester and currently working in Consulting at
 I'm passionate about open source projects, and I love to produce content.
 
 Find me:
-[label](https://linktr.ee/gabrielbarbosa_)
 <https://linktr.ee/gabrielbarbosa_>
 
 
